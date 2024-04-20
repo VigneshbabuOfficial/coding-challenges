@@ -1,1 +1,0 @@
-#### java hackerrank exercises
